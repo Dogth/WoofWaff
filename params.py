@@ -75,4 +75,4 @@ specification = colour.appearance.CAM_Specification_Hellwig2022(
 # 1) Yw = 140 cm/m^2
 # 2) #1F1F1F background with 5% stuff
 # 3) 50cm away from screen
-# 4) Check for APCA fluid compliance
+# 4) Check for APCA
